@@ -6,7 +6,7 @@ These files contain small boilerplate examples to get connected to the driver an
 ### Steps to get started
 Consult the [Drill ODBC](http://example.com/) documentation for instructions on installing the ODBC driver on your machine, as well as Drill-specific configuration.
 
-On Linux machines, edit each of the these three files (samples are included in the Sample/ directory with the driver) to make sure they are correct.  I have included the versions I used on an Ubuntu Linux 14.04 machine with unixODBC installed in this repo.
+On Linux machines, edit each of the these three files (samples are included in the Sample/ directory with the driver) to make sure they are correct.  I have included the odbc.ini file I used on an Ubuntu Linux 14.04 machine with unixODBC installed in this repo.
 - ~/.odbc.ini
 - ~/.odbcinst.ini
 - ~/.mapr.drillodbc.ini
